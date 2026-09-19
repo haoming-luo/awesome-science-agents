@@ -88,11 +88,11 @@ If the primary URL itself changes, its permalink changes too.
   Eleven PDF-only figures and tables are cropped locally, with provenance recorded in
   `docs/assets/paper-figures/README.md`. Tables retain original numerical values
   and labels, omitting bibliographic citation markers.
-- All 101 entries include complete Chinese and English reading guides. These
+- All 102 entries include complete Chinese and English reading guides. These
   expand on the brief catalog summaries; numerical claims retain their evaluation
   setting and original-source links. The September 2026 reading edition includes figures for 98 entries, selected
-  tables for 48, and identified institutions or project teams for 99. Jacobian and
-  ResearchClawBench are project entries without selected figures; MARS currently
+  tables for 48, and identified institutions or project teams for 100. AgentFEM,
+  Jacobian and ResearchClawBench have no selected figures; MARS currently
   links to its original publication because a usable figure was not retrieved.
   Jacobian and the four-attempt case study do not explicitly list institutions in
   the checked sources. The autonomous-research survey and MARS have partial
