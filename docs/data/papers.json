@@ -12529,7 +12529,23 @@
             "The same simulation results can feed parameter datasets and surrogates while retaining parameters, units and computational origin."
           ]
         },
-        "figures": [],
+        "figures": [
+          {
+            "label": "Figure 1",
+            "images": [
+              "assets/paper-figures/p-7721bd4b311f.png"
+            ],
+            "sizes": [
+              [
+                1510,
+                320
+              ]
+            ],
+            "source": "https://haoming-luo.github.io/agentfem/assets/papers/agentfem_platform.pdf#page=4",
+            "zh": "沿箭头看工程模型如何进入有限元数值计算，再生成结果、数据集和学习模型。每一层有明确职责，学习结果可以返回下一轮预测或有限元计算。",
+            "en": "Follow the engineering model into finite-element computation, then results, datasets and learned models. Each layer has a separate role; learned outputs can feed another prediction or FEM calculation."
+          }
+        ],
         "tables": [],
         "guide": {
           "zh": {
